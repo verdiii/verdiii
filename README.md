@@ -10,15 +10,11 @@
 
 ## My certificate in [here](./MY_CERTIFICATE.md)
 
-## 🌐Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorverdi/) 
 
-# 💻Tech Stack
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
- 
- src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+## Tools and Languages
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
  
 
 # 📊GitHub Stats :
