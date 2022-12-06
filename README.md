@@ -4,14 +4,14 @@
 
 - I’m currently learning **Frameworks, courses, etc**
 
-- How to reach me **v@gmail.com**
+- How to reach me **victor.verdi.melo@gmail.com**
 
 - Fun fact **I think I'm funny**
 
 ## My certificate in [here](./MY_CERTIFICATE.md)
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/victorverdi/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorverdi/) 
 
 # 💻Tech Stack
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
