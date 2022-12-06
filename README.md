@@ -2,7 +2,12 @@
 
 ![Yensubldg](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=23E1FFD5&center=true&vCenter=true&width=435&lines=I'm+trying+to+be+a+Developer)
 
-- I’m currently learning **Frameworks, courses, etc**
+- I'm from Brazil
+- I'm in a career transition
+- I’m currently learning **everything**
+
+- 2023 goals: Contribute to Open Source projects and fluent in Pynthon
+
 - Fun fact **I think I'm funny**
 
 ## My Workspace
@@ -21,4 +26,14 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
           
- 
+ ## Github Stats
+
+<details> 
+  <summary><b>GitHub Profile Stats</b></summary>
+  <br/>
+  <div>
+<a href="https://github.com/verdiii">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verdiii&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=verdiii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<br/>
