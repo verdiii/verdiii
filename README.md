@@ -15,15 +15,6 @@
 
 ## Tools and Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
           
  
-
-# 📊GitHub Stats :
- <p><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yensubldg&theme=react&layout=compact&hide=vue,php,html,blade&langs_count=8&exclude_repo=CMU-SE252,Computer-Science-for-Practicing-Engineers-Software-Construction" alt="yensubldg" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yensubldg&count_private=true&theme=react&show_icons=true" alt="yensubldg" /> </p>
-<p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yensubldg&theme=react&hide_border=false" alt="yensubldg" />
-</p>
-
-![](https://activity-graph.herokuapp.com/graph?username=yensubldg&theme=dracula&hide_border=false)
